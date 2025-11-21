@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You have reached my GitHub page somehow. You're in for a ride 😄  
+You have reached my GitHub page. 
 To look at my work in a nicer format, check out [my portfolio](https://github.com/surbhir08/surbhir08.github.io)!
 
 
@@ -9,10 +9,9 @@ To look at my work in a nicer format, check out [my portfolio](https://github.co
 `surbhirathore08 [at] gmail.com`  
 _[ORCID Profile](https://orcid.org/0009-0007-5045-0623)_  
 _[LinkedIn: Surbhi Rathore](https://www.linkedin.com/in/surbhi-rathore-72883344/)_  
-_[GitHub: surbhir08](https://github.com/surbhir08)_
+_[GitHub: surbhir08](https://github.com/surbhir08)_ 
 _[Google Scholar: surbhi Rathore](https://scholar.google.com/citations?user=yxkrUL4AAAAJ&hl=en)_
 
-:::
 
 ###### 🧠 About Me
 
@@ -21,9 +20,9 @@ My name is Surbhi Rathore and I am a Phd candidate and research scholar in Compu
 
 ###### 🧩 Research Interests
 
-1. Responsible AI research  
-2. Benchmarking for fairness and accountability
-3. Human-AI collaboration
+1. Socio-technical Fairness in Machine Learning across modalities and Responsible AI research  
+2. Benchmarking for fairness and evaluations
+3. Human-AI collaboration  
 
 * Graduate Research Assistant (current) and Teaching Assitant at the University of Rhode Island  
 * Current Project and Research:
